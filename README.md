@@ -1,2 +1,2 @@
-# ProjetoCardZion
-Projeto com foco em criar um pequeno cartão com informações importantes! 
+# ProjetoLandingPageZion
+Projeto com foco em criar uma página com informações importantes! 
